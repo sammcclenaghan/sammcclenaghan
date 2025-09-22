@@ -1,3 +1,8 @@
-## Hey I'm Sam👋
+### Hi there 👋
 
-I'm a Student who hasn't quite decided what to specialize in yet. Just trying to learn as much as possible, make cool projects and work with even cooler people.
+I'm [Sam](https://samcclenaghan.netlify.app/), a computer science student at [UVic](https://www.uvic.ca/).
+
+I’m currently an intern at [@Ruboss](https://github.com/rubosstech), where I’m helping polish [Leanpub](https://leanpub.com/) V3. I love exploring new areas of computer science and building meaningful applications that make a difference. Recently, I’ve been especially interested in backend design and networking.
+
+Outside of coding, I’m always learning something new, and I enjoy spending time outdoors and staying active.  
+If you’d like to chat about projects, computer science, or anything interesting, I’d love to hear from you!
