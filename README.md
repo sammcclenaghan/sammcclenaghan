@@ -6,3 +6,5 @@ I’m currently an intern at [@Ruboss](https://github.com/rubosstech), where I�
 
 Outside of coding, I’m always learning something new, and I enjoy spending time outdoors and staying active.  
 If you’d like to chat about projects, computer science, or anything interesting, I’d love to hear from you!
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/sam-mcclenaghan/)
