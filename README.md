@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm [Sam](https://samcclenaghan.netlify.app/), a computer science student at [UVic](https://www.uvic.ca/).
-
-I’m currently an intern at [@Ruboss](https://github.com/rubosstech), where I’m helping build [Leanpub](https://leanpub.com/) V3 and prepare for its release. Previously, I worked on client onboarding and financial integrations at [@TrustScience](https://trustscience.com/).
+  
+Most recently, I interned at [@Ruboss](https://github.com/rubosstech), where I helped build [Leanpub](https://leanpub.com/) V3 and prepare for its release. Before that, I worked on client onboarding and financial integrations at [@TrustScience](https://trustscience.com/).
 
 I love exploring new areas of computer science and building meaningful applications that make a difference. Recently, I’ve been especially interested in backend design and networking.
 
